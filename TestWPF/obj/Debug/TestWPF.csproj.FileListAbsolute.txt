@@ -1,0 +1,28 @@
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\Window1.baml
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\Window1.g.cs
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\App.g.cs
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\TestWPF.pdb
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\MainPage.baml
+C:\Users\a54220\AppData\Local\Temporary Projects\TestWPF\obj\Debug\MainPage.g.cs
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\MainPage.baml
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\Window1.baml
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\MainPage.g.cs
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\Window1.g.cs
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\App.g.cs
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF_MarkupCompile.cache
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF.g.resources
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF.Properties.Resources.resources
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF.exe
+C:\Users\a54220\Documents\Visual Studio 2008\Projects\TestWPF\TestWPF\obj\Debug\TestWPF.pdb
